@@ -38,7 +38,7 @@ Ambos juegos siguen un mecanismo similar: se presenta una pregunta (país) y cua
 - Navegador web moderno (recomendado: Chrome, Firefox, Edge).
 
 ## Link a la página del proyecto
-[]()
+[https://pedromaarcos.github.io/P3/](https://pedromaarcos.github.io/P3/)
 
 ## Autor
 - Pedro Marcos Plaza
