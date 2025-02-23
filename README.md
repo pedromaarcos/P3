@@ -28,7 +28,7 @@ Ambos juegos siguen un mecanismo similar: se presenta una pregunta (país) y cua
 - **script.js**: Contiene la lógica para realizar las llamadas a la API, manipular el DOM y gestionar la interacción del usuario.
 
 ## Instrucciones de Uso
-1. Abre el archivo `index.html` en tu navegador.
+1. Abre el juego con el link proporcionada en el siguiente apartado.
 2. Selecciona uno de los dos juegos: "Adivinar la Capital" o "Adivinar la Bandera".
 3. Responde las preguntas seleccionando una de las cuatro opciones proporcionadas.
 4. Observa tu puntuación al finalizar el juego.
